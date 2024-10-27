@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/sun.spring.noodle" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.instagram.com/sun.spring.noodle" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/omgninja" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">I am an Unreal Engine developer specializing in virtual production pipelines. With a diverse skill set in event and broadcast production, I also explore game development, bringing innovative solutions and creative expertise to every project. I am passionate about leveraging technology to enhance storytelling and consistently push the boundaries of what’s possible in digital production environments.</h3>**
 
